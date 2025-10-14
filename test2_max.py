@@ -1,4 +1,4 @@
 def hi(name):
-    print(f"Hello, {name}!")
+    print(f"Bonjour, {name}!")
 
 hi("World")
